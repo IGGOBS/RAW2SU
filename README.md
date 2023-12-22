@@ -7,13 +7,13 @@ Install Requirements:
   
   See more: https://github.com/JohnWStockwellJr/SeisUnix
 
-
+-----------
 Install: 
 
   Download all source code and direct type _make_
 
 
-
+----------
 Author: 
 
 Yuan Wang
