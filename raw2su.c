@@ -207,7 +207,7 @@ int main(int argc, char **argv)
 	if ( !getparlong("TC",&TC ))			TC=-1;	
 	if ( !getparint("rfms",&rfms))			rfms=-1;	
 	if ( !getparint("verbose",&verbose))	verbose=0;	
-	if ( !getparint("distaz",&distaz))		distaz=1;
+	if ( !getparint("distaz",&distaz))		distaz=0;
 	if ( !getparstring("outfile",&outfile)) outfile=rawfile;
 
 	if ( tdcorr == 3 || tdcorr == 4 ){
